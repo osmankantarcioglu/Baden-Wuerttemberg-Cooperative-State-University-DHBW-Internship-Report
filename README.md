@@ -5,6 +5,7 @@
 ### Overview
 This project focused on leveraging Artificial Intelligence (AI) and data analysis techniques to analyze acoustic emission (AE) signals and classify material wear conditions. The report details the steps undertaken during the internship, including data preparation, model training, Fourier analysis, and comparisons of ANN and CNN models.
 
+Due to data privacy, I am not able to share codes.
 ---
 
 ### Project Steps
@@ -93,6 +94,7 @@ This project focused on leveraging Artificial Intelligence (AI) and data analysi
 - Enhance preprocessing techniques to further improve model accuracy.
 
 ---
+
 
 ### References
 1. Chen, Bo-Xiang et al. *Application of Generative Adversarial Network and Diverse Feature Extraction Methods to Enhance Classification Accuracy of Tool-Wear Status*. Electronics, 2022.
